@@ -86,4 +86,4 @@ Graduated June 2011
 ### 🤝 Let's Connect!
 
 I'm always open to discussing architecture, e-commerce solutions, microservices, and cloud-native transformations.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin) or [email](mailto:tuhin.uk.2021@gmail.com)!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tuhin-chandra) or [email](mailto:tuhin.uk.2021@gmail.com)!
