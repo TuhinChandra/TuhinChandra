@@ -43,7 +43,7 @@ Accomplished E-Commerce Solution Architect cum Technical Architect with 13+ year
 - Led monolith to microservice transitions, implementing patterns like Strangler, EDA, CQRS, BFF, and Circuit Breaker
 - Modernized legacy apps to cloud-native (AWS, Azure), embracing containerization and serverless
 - Crafted RFP responses for solution architecture, technology selection, estimation, and planning
-- Led and mentored teams of 10–24+ engineers, fostering technical growth and high delivery standards
+- Led and mentored teams of 10–40 engineers, fostering technical growth and high delivery standards
 - Migrated on-prem to cloud, implemented SSO (OAuth2.0), secured APIs (JWT, SSL/TLS)
 - Orchestrated SDLC end-to-end—from discovery and design to deployment and post-Go-Live support
 
