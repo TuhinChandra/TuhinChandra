@@ -79,11 +79,6 @@ Accomplished E-Commerce Solution Architect cum Technical Architect with 13+ year
 
 **B.Tech in Computer Science & Engineering**  
 St. Thomas College of Engineering & Technology (WBUT), Kolkata  
-Graduated June 2011
+Graduated June 2011 with CGPA 8.1
 
 ---
-
-### 🤝 Let's Connect!
-
-I'm always open to discussing architecture, e-commerce solutions, microservices, and cloud-native transformations.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tuhin-chandra) or [email](mailto:tuhin.uk.2021@gmail.com)!
