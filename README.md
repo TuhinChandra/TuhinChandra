@@ -1,6 +1,6 @@
 # Hi, I'm Tuhin Chandra 👋
 
-**Solution Architect | Technical Architect | Technophile**
+**E-Commerce Solution Architect | Technical Architect | Technophile**
 
 [LinkedIn](https://www.linkedin.com/in/tuhin-chandra) | [GitHub](https://github.com/TuhinChandra)  
 📧 tuhin.uk.2021@gmail.com | 📱 +91 9836377794
